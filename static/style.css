@@ -3,6 +3,7 @@
 }
 body {
     position: absolute;
+    margin: 0;
 }
 button {
     background-color: #3882F6;
